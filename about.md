@@ -18,21 +18,28 @@ Early Stage Researcher roles in ICT, distributed systems, or  AI and machine lea
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Python - numpy, pandas, scikit-learn, scipy, pyspark, matplotlib, seaborn</li>
+	<li>Python - numpy, pandas, scikit-learn, scipy, pyspark, matplotlib</li>
+	<li>Python - tensorflow, keras</li>
 	<li>SQL</li>
 	<li>Linux</li>
 	<li>Git</li>
 	<li>C++</li>
+	<li>HTML and CSS</li>
+	<li>Docker</li>
 	<li>AWS</li>
 	<li>AngularJS</li>
 	<li>HTML and CSS</li>
-
 </ul>
 
-<h2>Projects</h2>
+<h2>Tools Used</h2>
 
-<ul>
-	<li><a href="https://github.com/">arlethitgo</a></li>
-<!-- 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li> -->
+<ul class="skill-list">
+	<li>Databricks</li>
+	<li>Snowflake</li>
+	<li>MS PowerBI</li>
+	<li>AWS</li>
+	<li>CARTO</li>
+	<li>C++</li>
 </ul>
+
+
