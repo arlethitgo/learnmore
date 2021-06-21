@@ -7,6 +7,7 @@ headerImage: false
 tag:
 - markdown
 - elements
+projects: true
 star: true
 category: project
 author: johndoe
