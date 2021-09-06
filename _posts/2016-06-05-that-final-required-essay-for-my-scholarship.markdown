@@ -12,6 +12,7 @@ tag:
 category: blog
 author: janearlethitgo
 description: My Ateneo Education’s Take on Service and Leadership
+read-time: 3 min
 ---
 
 
