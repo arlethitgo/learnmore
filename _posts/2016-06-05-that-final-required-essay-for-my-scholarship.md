@@ -2,10 +2,8 @@
 title: "That Final Required Essay for My Scholarship"
 layout: post
 date: 2016-06-05 22:30
-image: /assets/images/markdown.jpg
-headerImage: false
+
 tag:
-- Blog
 - Scholarship
 - Personal
 - Ateneo
