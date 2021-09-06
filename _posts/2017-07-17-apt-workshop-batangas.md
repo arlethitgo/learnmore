@@ -1,5 +1,5 @@
 ---
-title: "APT Workshop: International Collaborative Research on Disaster Response Model Using Vehicle Communication"
+title: "APT Workshop: An Intarnational Collaboration"
 layout: post
 date: 2017-07-17 22:30
 image: /assets/images/markdown.jpg
@@ -10,7 +10,7 @@ tag:
 - Disaster Response
 category: blog
 author: janearlethitgo
-description: a private-public sector collaboration
+description: APT Workshop: International Collaborative Research on Disaster Response Model Using Vehicle Communication
 read-time: 2 min
 ---
 
