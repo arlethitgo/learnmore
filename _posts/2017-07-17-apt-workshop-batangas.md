@@ -10,7 +10,7 @@ tag:
 - Disaster Response
 category: blog
 author: janearlethitgo
-description: APT Workshop: International Collaborative Research on Disaster Response Model Using Vehicle Communication
+description: APT Workshop International Collaborative Research on Disaster Response Model Using Vehicle Communication
 read-time: 2 min
 ---
 
