@@ -1,3 +1,4 @@
+---
 title: "My Undergraduate Research on Disaster Management and Risk Reduction"
 layout: post
 date: 2017-04-28 22:30
@@ -9,6 +10,7 @@ tag:
 category: blog
 author: janearlethitgo
 description: Design and Development of Decision Support System Using Near Cloud for Disaster Management and Risk Reduction
+read-time: 2 min
 ---
 
 In my research entitled, Design and Development of Decision Support System Using Near Cloud for Disaster Management and Risk Reduction, I  used “near clouds” (mobile cloud) to gather and distribute intelligent information before, during, and after disasters. These nodes are cached in with key information and data needed for disasters i.e. maps, message reports, and images. The nodes serve as the  command and control in early warning and disaster  management systems. The main accomplishments for my research include the following:
