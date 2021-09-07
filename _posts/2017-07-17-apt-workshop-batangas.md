@@ -1,5 +1,5 @@
 ---
-title: "APT Workshop: An Intarnational Collaboration"
+title: "APT Workshop: An International Collaboration"
 layout: post
 date: 2017-07-17 22:30
 image: /assets/images/markdown.jpg
