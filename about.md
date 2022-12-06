@@ -4,8 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am Jane Arleth dela Cruz. I am currently a PhD Candidate at Radboud University in the Netherlands. My PhD topic is in 
+<p>I am Jane Arleth dela Cruz. I am PhD Candidate at Radboud University in the Netherlands. My PhD topic is in 
 Natural Language Processing, Interpretability in Deep Learning and Computational Linguistics. 
+My PhD project is in Interpretable Information Extraction for Disaster Relief.
 Previously, I was a Data Scientist in the Philippines' oldest conglomerate, 
 Ayala Corporation, where I applied analytics methods, data science and machine learning best practice
 to solve complex business problems and to help in data-driven corporate decision-making. I have had
