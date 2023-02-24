@@ -26,7 +26,7 @@ There were 5 books that made it to my highly-recommended list. They really stood
     
 2) The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
 
-<div> <img src=https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664458703i/32620332.jpg alt="Drawing" style="width: 300px;"/></div> 
+<img src=https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664458703i/32620332.jpg alt="Drawing" style="width: 300px;"/> 
 
 > Highly recommended! Such a page-turner, I simply can't put it down. I was reading this in bed and I couldn't sleep without finishing the story. Evelyn is such an interesting character that I am so enamored to know everything about her.
 > P.S. This book reminded that I'm not straight HAHA. 
@@ -41,7 +41,7 @@ There were 5 books that made it to my highly-recommended list. They really stood
 
 4) Sapiens: A Brief History of Humankind
 
-<div> <img src=https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533i/23692271.jpg alt="Drawing" style="width: 300px;"/></div>         
+<img src=https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533i/23692271.jpg alt="Drawing" style="width: 300px;"/>        
         
 > I highly recommend reading this book. It takes you to an epic journey of Sapiens throughout histyroy. The storytelling is superb and easy to digest. It is thought-provoking and very interesting. 
 
