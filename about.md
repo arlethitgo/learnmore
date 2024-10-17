@@ -7,7 +7,7 @@ layout: page
 I am Jane Arleth dela Cruz. I am PhD Candidate at [Radboud University](ru.nl) in the Netherlands. My PhD is in 
 Natural Language Processing and Explainable AI. 
 My PhD project is in Interpretable Information Extraction for Disaster Relief.
-I am one of the PhD's working in the NWO (Dutch Research Council) - funded project, [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/events/journal-club/), working closely with our industry partner, the startup [FloodTags](https://www.floodtags.com/)
+I am one of the PhD's working in the NWO (Dutch Research Council) - funded project, [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/events/journal-club/), and I work closely with our industry partner, the startup [FloodTags](https://www.floodtags.com/).
 I am supervised by [Iris Hendrickx](https://i-hx.nl/) and [Martha Larson](https://www.ru.nl/en/people/larson-m).
 I am currently a member of the Radboud Center for Language and Speech Technology, AmsterdamNLP, SIKS (Netherlands Research School for Information and Knowlege Systems), and the ELLIS Unit Nijmegen.
 	
