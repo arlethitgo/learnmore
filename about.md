@@ -11,16 +11,16 @@ I am one of the PhD's working in the NWO (Dutch Research Council) - funded proje
 I am supervised by [Iris Hendrickx](https://i-hx.nl/) and [Martha Larson](https://www.ru.nl/en/people/larson-m).
 I am currently a member of the Radboud Center for Language and Speech Technology, AmsterdamNLP, SIKS (Netherlands Research School for Information and Knowlege Systems), and the ELLIS Unit Nijmegen.
 	
- Previously, I was a Data Scientist in the Philippines' oldest conglomerate, 
+Previously, I was a Data Scientist in the Philippines' oldest conglomerate, 
 [Ayala Corporation](https://ayala.com/) , where I applied analytics methods, data science and machine learning best practice
 to solve complex business problems and to help in data-driven corporate decision-making. I have had
 valuable data science and software engineering work experience from [SAS Institute](https://www.sas.com/nl_nl/home.html), the leader in analytics and
 from my international internship experiences at [CERN](https://home.cern/) in Switzerland, [Weathernews Inc.](https://global.weathernews.com/) and 
 [Nara Institute of Science and Technology](https://www.naist.jp/en/), both in Japan. I am a highly competent individual able
-to work both individually an with a team.</p>
+to work both individually an with a team.
 
 I am passionate about solving problems and doing research. In my free time, I do resistance training at the gym,
-play table tennis, read books, and hang out with friends.</p>
+play table tennis, read books, and hang out with friends.
 
 <h2>Skills</h2>
 
